@@ -59,3 +59,6 @@ typings/
 
 # next.js build output
 .next
+.idea
+public/bower_components
+package-lock.json
